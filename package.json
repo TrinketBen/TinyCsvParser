@@ -1,0 +1,14 @@
+{
+  "name": "com.github.tinycsvparser",
+  "displayName": "TinyCsvParser",
+  "version": "2.7.0",
+  "unity": "2022.3.36",
+  "description": "TinyCsvParser is a .NET library to parse CSV data in an easy and fun way, while offering very high performance and a very clean API. It is highly configurable to provide maximum flexibility.",
+  "changelogUrl": "README.md",
+  "documentationUrl": "https://tinycsvparser.github.io/TinyCsvParser/sections/quickstart.html",
+  "licenseUrl": "LICENSE",
+  "author": {
+    "name": "TinyCsvParser",
+    "url": "https://github.com/TinyCsvParser/TinyCsvParser"
+  }
+}
